@@ -29,15 +29,15 @@ compress_html:
 # Links to include in menu navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: Beranda
     url: /
   - title: Series
     url: /series
-  - title: Tags
+  - title: Tagar
     url: /tags
-  - title: About Me
+  - title: Tentang Saya
     url: /about
   - title: Kontak
-    url: /kontak
+    url: /
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
