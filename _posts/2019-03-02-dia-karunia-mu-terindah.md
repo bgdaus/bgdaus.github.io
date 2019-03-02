@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dia karunia mu yang Terindah"
-date: 2015-03-02 22:43:23
+date: 2019-03-02 22:43:23
 image: '/assets/img/linter/kutipan.png'
 description: 'Anak yg bagaimanakah yg anda
 Inginkan?'
