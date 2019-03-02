@@ -9,7 +9,7 @@ main-class: 'kutipan'
 color: '#D6BA32'
 tags:
 - cerita
-categories:
+categories: kisah
 twitter_text: 'Anak yg bagaimanakah yg anda
 Inginkan?
 Kiriman kawan. bagus sekali dibaca....'
