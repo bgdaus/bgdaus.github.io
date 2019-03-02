@@ -15,7 +15,7 @@ Inginkan?
 Kiriman kawan. bagus sekali dibaca....'
 ---
 
-## Postingan
+
 
 Senangkah anda bila Anak anda lulusan IPB, ITB, UI, UGM atau
 Amerika, Eropa, kerja di Amerika
